@@ -1,3 +1,5 @@
+import 'dart:io';
+
 void main() {
   double temperatura, resultado;
   String opcao;
